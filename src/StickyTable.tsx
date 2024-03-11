@@ -435,4 +435,4 @@ const StickyTable: React.FC<StickyTableProps> = ({
   );
 };
 
-export default StickyTable;
+export {StickyTable};
