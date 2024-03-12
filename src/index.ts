@@ -1,1 +1,1 @@
-export {StickyTable} from './StickyTable';
+export * from './StickyTable';
