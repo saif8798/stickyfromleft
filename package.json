@@ -2,7 +2,8 @@
   "name": "stickyfromleft",
   "version": "1.0.5",
   "description": "",
-  "main": "dist/index.js",
+  "main": "index.js",
+  "types": "StickyTable.d.ts",
   "scripts": {
     "build": "tsc",
     "prepare": "npm run build",
